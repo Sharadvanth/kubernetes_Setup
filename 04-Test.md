@@ -67,4 +67,4 @@ You may also copy the KUBECONFIG to `student-node` thus allowing you to run `kub
     ```
 
 
-Prev: [Worker nodes](./Workers.md)
+Prev: [Worker nodes](./03-Workernodes.md)
