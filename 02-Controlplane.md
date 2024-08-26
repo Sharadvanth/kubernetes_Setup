@@ -63,5 +63,5 @@ On the `controlplane` node
     kubectl get pods -n kube-system
     ```
 
-Next: [Join Workers](./Workers.md)</br>
+Next: [Join Workers](./03-Workernodes.md)</br>
 Prev: [Node setup](./01-Node-Setup.md)
