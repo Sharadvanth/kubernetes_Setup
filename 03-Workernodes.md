@@ -35,5 +35,5 @@ On `controlplane` run the following. After a few seconds both nodes should be re
 kubectl get nodes
 ```
 
-Next: [Test](./Test.md)</br>
-Prev: [Boot controlplane](./Controlplane.md)
+Next: [Test](./04-Test.md)</br>
+Prev: [Boot controlplane](./02-Controlplane.md)
