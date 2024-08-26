@@ -114,4 +114,4 @@ Perform all the following steps on each of `controlplane`, `node01` and `node02`
 
 If you used tmux or iterm2 synchronized panes for this section, you should disable the synchronization now.
 
-Next: [Control Plane setup](./Controlplane.md)</br>
+Next: [Control Plane setup](./02-Controlplane.md)</br>
