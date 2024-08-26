@@ -64,4 +64,4 @@ On the `controlplane` node
     ```
 
 Next: [Join Workers](./Workers.md)</br>
-Prev: [Node setup](./Node-Setup.md)
+Prev: [Node setup](./01-Node-Setup.md)
