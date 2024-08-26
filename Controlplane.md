@@ -6,7 +6,7 @@
 
 On the `controlplane` node
 
-1.  Set shell variables for the pod and network network CIDRs. The API server advertise address is using the predefined variable described in the [previous section](./04-node-setup.md)
+1.  Set shell variables for the pod and network network CIDRs. The API server advertise address is using the predefined variable described in the previous section
 
     ```bash
     POD_CIDR=10.244.0.0/16
